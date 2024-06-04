@@ -1,0 +1,1 @@
+using custloyal_csSrv as service from '../../srv/service';
